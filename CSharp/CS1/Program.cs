@@ -1,13 +1,17 @@
-﻿using System;
+using System;
 // Espacio de nombres
 namespace CS1
 {
+    
     // Clase principal
+
     class Program
     {
-        Static void Main(string[] args)
+        // Funcion principal
+
+        static void Main(string[] args)
         {
-            
-        }// Termino de la funcion principal
+            Console.WriteLine("Programación en C#");
+        } // Termino de la funcion principal
     } // Termino de la clase principal
-} // Termino del espacio de nombres 
+} // Termino del espacio de nombres
